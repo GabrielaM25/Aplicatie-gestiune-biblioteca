@@ -1,5 +1,5 @@
 # Aplicatie-gestiune-biblioteca
-Aplicatia permite.....
+
 ![image](https://user-images.githubusercontent.com/73945430/110955132-ec00d800-8351-11eb-930b-1a6a60c00ab7.png)
 
 ![image](https://user-images.githubusercontent.com/73945430/110955160-f58a4000-8351-11eb-911a-ce6ddab7c51d.png)
